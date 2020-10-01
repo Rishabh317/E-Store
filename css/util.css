@@ -1,0 +1,25 @@
+.d-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ff-open{
+    font-family: 'Open Sans';
+}
+.ff-open-bold{
+    font-family: 'Open Sans-Bold';
+}
+.tt-camel{
+    text-transform: capitalize;
+}
+/* 
+    .images:hover{
+        transform: scale(1.2);
+        transition-timing-function:ease-in;
+    }
+    .imagessmall:hover{
+        transform: scale(0.8);
+    } */
+
+
+   
